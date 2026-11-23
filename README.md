@@ -15,7 +15,7 @@ Senior Android engineer with 8+ years of shipping production apps in fintech, tr
 | **[Vaani](https://github.com/shiv-eng/vaani)** · [Google Play](https://play.google.com/store/apps/details?id=com.quietstack.vaani) | Offline voice recorder that transcribes Hindi and English entirely on the phone | KMP, Compose, whisper.cpp (JNI/NDK), IndicConformer, sherpa-onnx |
 | **[Gullak](https://github.com/shiv-eng/gullak)** | AI goal-savings planner. Say a goal in Hindi or English, get a plan and UPI AutoPay. Top 10 at Paytm's AI hackathon | 13-module Android app, Compose, Room, Gemini, 43 test files |
 | **[VoiceTrade AI](https://github.com/shiv-eng/voicetrade-ai)** | Real-time voice agent for stocks, IPOs and paper trading in Hindi or English | Agora Conversational AI, Kotlin, Compose, GitHub Actions |
-| **[Sentinel](https://github.com/shiv-eng/Fake-news-detector)** | Detects phishing links, AI-generated images, deepfakes and fake news, with RAG fact-checking | Python, RAG |
+| **[Sentinel](https://github.com/shiv-eng/sentinel)** | Detects phishing links, AI-generated images, deepfakes and fake news, with RAG fact-checking | Python, RAG |
 | **[Thumbbreak](https://thumbbreak.com)** | Counts Reels and Shorts live and locks the feed at your limit | Kotlin, Accessibility Service |
 | **[DocuClean](https://docuclean.app)** | Nine PDF tools, including watermark removal that keeps the original layout | Python, FastAPI, PostgreSQL |
 
@@ -26,7 +26,7 @@ Senior Android engineer with 8+ years of shipping production apps in fintech, tr
 [Compose Shop](https://github.com/shiv-eng/ComposeShoppingApp) (Firebase Auth) ·
 [Launcher Lab](https://github.com/shiv-eng/AndroidAppIconChange) (runtime app icons) ·
 [KMP To-Do](https://github.com/shiv-eng/ToDoListKMP) (Compose and SwiftUI) ·
-[Object Detector](https://github.com/shiv-eng/Obeject-Detector-Tensor-Flow) (TensorFlow Lite) ·
+[Object Detector](https://github.com/shiv-eng/Object-Detector-TensorFlow) (TensorFlow Lite) ·
 [Document Scanner](https://github.com/shiv-eng/ML-Kit-Document-Scanner-App) (ML Kit)
 
 ## Tech I work with
