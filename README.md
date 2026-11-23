@@ -1,4 +1,4 @@
-# Hi, I'm Shivangi 👋
+# Hi, I am Shivangi 👋
 
 Senior Android engineer with 8+ years of shipping production apps in fintech, travel and community platforms. I build modular, tested apps in Kotlin and Jetpack Compose, and lately a lot of on-device and voice AI.
 
